@@ -18,7 +18,7 @@ import Chapter5 from "./pages/Chapters/Chapter5";
 
 function App() {
   return (
-    <div>
+    <div className="relative">
       <Navbar />
       <Routes>
         <Route path="/aboutUs" element={<AboutUS />} />
@@ -35,7 +35,6 @@ function App() {
         />
         <Route path="/what-is-the-uk" element={<Chapter2 />} />
         <Route path="/a-long-and-illustrious-history" element={<Chapter3 />} />
-        <Route path="/a-modern-thriving-society" element={<Chapter4 />} />
         <Route path="/a-modern-thriving-society" element={<Chapter4 />} />
         <Route
           path="/the-uk-government-the-law-and-your-role"

@@ -3,9 +3,6 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      fontFamily: {
-        primary: ['Inter', ...fontFamily.sans],
-      },
       colors: {
         primary: {
           // Customize it on globals.css :root
