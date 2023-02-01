@@ -245,7 +245,7 @@ export default function Header() {
               </Linkcomponent>
 
               {/* Contact Us */}
-              <Linkcomponent title='Contact Us' link='/contact-us'>
+              <Linkcomponent title='Contact Us' link='/contactUs'>
               </Linkcomponent>
             </ul>
           </nav>
@@ -299,7 +299,7 @@ export default function Header() {
           </MobileLink>
           <MobileLink title='About Us' link='/about-us'>
           </MobileLink>
-          <MobileLink title='Contact Us' link='/contact-us'>
+          <MobileLink title='Contact Us' link='/contactUs'>
           </MobileLink>
         </ul>
       </nav>

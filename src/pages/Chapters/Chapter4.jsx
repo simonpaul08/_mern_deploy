@@ -433,7 +433,7 @@ const Chapter4 = () => {
           </div>
           <div className="flex flex-wrap justify-around">
             <CustomLink to="/test-4-1">Test your knowledge</CustomLink>
-            <CustomLink to="/he-uk-government-the-law-and-your-role">Go to Chapter 5</CustomLink>
+            <CustomLink to="/the-uk-government-the-law-and-your-role">Go to Chapter 5</CustomLink>
           </div>
         </div>
 
